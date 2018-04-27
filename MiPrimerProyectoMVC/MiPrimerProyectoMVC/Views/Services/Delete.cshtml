@@ -1,0 +1,66 @@
+﻿@model MiPrimerProyectoMVC.Model.Service
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<h2  style=" color: white">Borrar</h2>
+
+<h3  style=" color: white">Esta seguro de que desea borrar este servicio?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal"  style=" color: white">
+        <dt>
+            @Html.DisplayName("Nombre del servicio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ServiceName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Descripcion del servicio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ServiceDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Esta activo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("En uso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsUsed)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayName("Pago")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Borrar Servicio" class="btn btn-danger" /> |
+            <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index")'" />
+        </div>
+    }
+</div>

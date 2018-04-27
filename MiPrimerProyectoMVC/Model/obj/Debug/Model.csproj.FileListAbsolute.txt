@@ -1,0 +1,210 @@
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.Net.Http.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Owin.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.Net.Http.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.Net.Http.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll.config
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Model.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Model.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Helper.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.Net.Http.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Owin.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Helper.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.Net.Http.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Histrio.Net.Http.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\obj\Debug\Model.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\Model\obj\Debug\Model.pdb

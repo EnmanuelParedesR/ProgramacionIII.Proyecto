@@ -1,0 +1,52 @@
+﻿@model Model.Usuario
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+<h2  style=" color: white">Detalles</h2>
+
+<div>
+    <h4  style=" color: white"><b> Informacion del Usuario</b></h4>
+    <hr />
+    <dl class="dl-horizontal"  style=" color: white">
+        <dt>
+            @Html.DisplayName("Rol")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rol.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Correo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Correo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+    </dl>
+</div>
+<p>
+  
+    <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index", "Usuarios")'" />
+    <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Usuarios",new { id = Model.id})';return false;">Editar</button>
+
+</p>

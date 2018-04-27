@@ -1,0 +1,100 @@
+﻿@model MiPrimerProyectoMVC.Model.PermisoDenegadoPorRol
+
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+    h1, h2, h3, h4 {
+        color: white;
+    }
+</style>
+
+
+
+<h2>Denegacion de permisos</h2>
+
+
+<h4>En esta paginas se crean las denegaciones para determinados roles</h4>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group" style=" color: white">
+                @Html.LabelFor(model => model.PermisoID, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.PermisoID, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.PermisoID, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group"  style=" color: white">
+                @Html.LabelFor(model => model.RolID, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownList("RolID", null, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.RolID, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Denegar" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+        }
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de suscripciones de este Cliente</div>
+
+    <div style="height: 500px; overflow: scroll; ">
+
+
+        <table class="table">
+            <tr>
+
+                <th>
+                    @Html.DisplayName("PermisoID")
+                </th>
+
+                <th>
+                    @Html.DisplayName("Permiso")
+                </th>
+
+                <th></th>
+            </tr>
+
+            @{
+                int b = 0;
+            }
+            @foreach (var a in ViewBag.Nombres_Permiso)
+            {
+                b++;
+
+                <tr>
+                    <td>
+                        @b
+                    </td>
+
+                    <td>
+                        @a.Descripcion
+                    </td>
+                </tr>
+            }
+
+
+        </table>
+
+    </div>
+
+</div>
+
+    <div>
+        <input type="button" class="btn btn-info" value="Inicio" onclick="location.href='@Url.Action("Index", "PermisoDenegadoPorRols")'" />
+
+    </div>

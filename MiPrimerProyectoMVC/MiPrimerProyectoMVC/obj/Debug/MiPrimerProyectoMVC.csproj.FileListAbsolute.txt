@@ -1,0 +1,680 @@
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\7- Vistas, Controladores\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\8- Enviando parámetros a la vista desde el controlador y viceversa\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\9- Creando nuestro modelo de la DB Test\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\10- Formulario y validacion\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\11- Validando el formulario\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\12- Enviando el formulario mediante AJAX\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\13- Adjuntando cursos\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\14- Agregando adjuntos a un alumno\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\15- AnexGRID\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+D:\Mi Trabajo\Tutoriales\asp.net-mvc\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\ArchivoDeInternet\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (4)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\COPIA MAS ORIGINAL OJO PROBAR - Copy (6) - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\WebGrease.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.xml
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ema\Desktop\Prueba\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\WebGrease.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Original_DatePicker\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\WebGrease.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Original_DatePicker - Copy (2)\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\WebGrease.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Original_5pm\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\WebGrease.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\ORIGINAL - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\WebGrease.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.Net.Http.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Owin.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.Net.Http.pdb
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.Net.Http.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.xml
+C:\Users\ema\Desktop\Pruebas_Finales_API\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll.config
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\MiPrimerProyectoMVC.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.Net.Http.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Owin.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\WebGrease.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Helper.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Model.dll.config
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Antlr3.Runtime.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.Net.Http.pdb
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Histrio.Net.Http.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\Newtonsoft.Json.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Helpers.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Mvc.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Optimization.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.Razor.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csprojResolveAssemblyReference.cache
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.Migrations.AddAlumno.resources
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.csproj.GenerateResource.Cache
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.dll
+C:\Users\ema\Desktop\Intec Trimestres\Trimestre 5\Programacion III\Proyecto Final - Versiones\2.0 - Copy\MiPrimerProyectoMVC\MiPrimerProyectoMVC\obj\Debug\MiPrimerProyectoMVC.pdb

@@ -1,0 +1,55 @@
+﻿@model IEnumerable<MiPrimerProyectoMVC.Model.TasaID>
+
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<p>
+
+    <input type="button" class="btn btn-success" value="Crear Tasa" onclick="location.href='@Url.Action("Create")'" />
+
+</p>
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de Tasas</div>
+
+    <table class="table panel-primary">
+
+
+        <tr>
+            <th>
+                @Html.DisplayName("Cliente Key")
+            </th>
+            <th>
+                @Html.DisplayName("Valor de intercambio")
+            </th>
+            <th>
+                @Html.DisplayName("Fecha")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClientKey)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValorIntercambio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    <button class="btn btn-danger" onclick="location.href='@Url.Action("Delete", "TasaIDS",new { id = item.Id })';return false;">Borrar</button>
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    </div>

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Model.Rol>
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<p>
+    <input type="button" class="btn btn-success" value="Crear Rol" onclick="location.href='@Url.Action("Create", "Rols")'" />
+ 
+</p>
+
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de Roles</div>
+
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    
+                    @if (item.id != 3)
+                    {
+                        <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Rols",new { id = item.id})';return false;">Editar</button>
+                        <button class="btn btn-info" onclick="location.href='@Url.Action("Details", "Rols",new { id = item.id})';return false;">Detalles</button>
+                        <button class="btn btn-danger" onclick="location.href='@Url.Action("Delete", "Rols",new { id = item.id})';return false;">Borrar</button>
+                    }
+
+                </td>
+            </tr>
+        }
+
+    </table>
+ 
+</div>

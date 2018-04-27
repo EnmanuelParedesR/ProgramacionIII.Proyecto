@@ -1,0 +1,30 @@
+﻿@model LoginViewModel
+
+@{
+    ViewBag.Title = "Acceso al sistema";
+}
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+@using (Html.BeginForm("Autenticar", "Login", FormMethod.Post ))
+{
+    <div class="form-group" style=" color: white">
+        @Html.LabelFor(x => x.Correo)
+        @Html.TextBoxFor(x => x.Correo, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.Correo, null, new { @class = "label label-danger" })
+    </div>
+    <div class="form-group" style=" color: white">
+        @Html.LabelFor(x => x.Password)
+        <input type="password" name="Password" class="form-control" />
+        @Html.ValidationMessageFor(x => x.Password, null, new { @class = "label label-danger" })
+    </div>
+
+    <div class="text-right">
+        <button data-ajax="true" type="submit" class="btn btn-primary">Ingresar</button>
+    </div>
+} 

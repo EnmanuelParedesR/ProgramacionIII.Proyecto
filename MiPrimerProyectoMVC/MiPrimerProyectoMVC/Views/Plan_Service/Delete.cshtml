@@ -1,0 +1,45 @@
+﻿@model MiPrimerProyectoMVC.Model.Plan_Service
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+<h2 style=" color: white">Borrar Referencia</h2>
+
+<h3 style=" color: white">Esta seguro que quiere borrar esta referencia?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal" style=" color: white">
+        <dt>
+            @Html.DisplayName("Nombre del Plan")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Plan.PlanName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nombre del servicio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Service.ServiceName)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Borrar" class="btn btn-danger" /> |
+
+            <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index", "Plans")'" />
+            
+        </div>
+    }
+</div>

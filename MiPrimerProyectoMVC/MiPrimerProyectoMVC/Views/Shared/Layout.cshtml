@@ -1,0 +1,134 @@
+﻿
+<!DOCTYPE html>
+
+<style>
+    .dropbtn {
+        background-color: yellowgreen;
+        color: black;
+        padding: 8px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 120px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+        .dropdown-content a {
+            color: black;
+            padding: 12px 12px;
+            text-decoration: none;
+            display: block;
+        }
+
+            .dropdown-content a:hover {
+                background-color: #f1f1f1
+            }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: yellowgreen;
+    }
+</style>
+
+
+
+
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Base de S.A- @ViewBag.Title</title>
+
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/assets/css/style.css" rel="stylesheet" />
+
+    <script src="~/assets/js/jquery.min.js"></script>
+
+    @Styles.Render("~/Content/themes/base/css")
+
+
+    @Scripts.Render("~/bundles/jqueryui")
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js" )" type="text/javascript"></script>
+    <link href="@Url.Content("/Scripts/jquery-ui.min.css")" rel="stylesheet" type="text/css" />
+
+</head>
+<body>
+
+    <div class="container">
+
+        <h1 style="background-color: transparent; color: white" class="jumbotron" >
+            Base de datos S.A
+        </h1>
+
+        @if (SessionHelper.ExistUserInSession())
+        {
+            <div class="row" >
+                <div style="color:black" class="col-xs-12 text-center well">
+                    Bienvenido, <a href="~/Usuarios/Informacion"><b>@FrontUser.Get().Nombre, @FrontUser.Get().Rol.Nombre</b> </a>  [<a href="~/home/salir">Finalizar sesión</a>]
+
+                    @if (FrontUser.Get().Rol.id == 1)
+                    {
+
+                        <div class="dropdown" >
+                            <button class="dropbtn ">Herramientas ADM</button>
+                            <div class="dropdown-content">
+                                <a href="~/Usuarios/Index"><i class="glyphicon glyphicon-home"></i>  Lista de usuarios</a>
+                                <a href="~/Usuarios/Create"><i class="glyphicon glyphicon-plus"></i>  Agregar Usuario</a>
+                                <a href="~/Rols/Index"> <i class="glyphicon glyphicon-home"></i> Lista de Roles</a>
+                                <a href="~/Rols/Create"> <i class="glyphicon glyphicon-plus"></i> Agregar Rol</a>
+                                <a href="~/Permisoes/Index"> <i class="glyphicon glyphicon-home"></i> Lista de Permisos</a>
+                                <a href="~/TasaIDs/Index"> <i class="glyphicon glyphicon-home"></i> Tasa</a>
+                                <a href="~/PermisoDenegadoPorRols/Index"> <i class="glyphicon glyphicon-home"></i> Lista de Denegaciones</a>
+                            </div>
+                        </div>
+                    }
+
+                    <ul class="nav navbar-nav">
+
+                        <input type="button" class="btn btn-primary" value="Inicio" onclick="location.href='@Url.Action("Index", "Home")'" />
+                        <input type="button" class="btn btn-primary" value="Clientes" onclick="location.href='@Url.Action("Index", "Clients")'" />
+                        <input type="button" class="btn btn-primary" value="Suscripciones" onclick="location.href='@Url.Action("Index", "Subscriptions")'" />
+                        <input type="button" class="btn btn-primary" value="Planes" onclick="location.href='@Url.Action("Index", "Plans")'" />
+                        <input type="button" class="btn btn-primary" value="Servicios" onclick="location.href='@Url.Action("Index", "Services")'" />
+
+                    </ul>
+
+                </div>
+
+            </div>
+        }
+        @RenderBody()
+
+    </div>
+
+    <script src="@Url.Content("~/Scripts/jquery-1.7.1.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery-ui-1.10.4.min.js")"></script>
+
+    <script src="~/assets/js/bootstrap.min.js"></script>
+
+    <script src="~/assets/js/jquery.validate.min.js"></script>
+    <script src="~/assets/js/jquery.validate.unobtrusive.min.js"></script>
+
+    <script src="https://cdn.rawgit.com/Anexsoft/AnexGRID/master/jquery.anexgrid.min.js"></script>
+
+    <script src="~/assets/js/ini.js"></script>
+    <script src="~/assets/js/jquery.form.js"></script>
+
+</body>
+</html>

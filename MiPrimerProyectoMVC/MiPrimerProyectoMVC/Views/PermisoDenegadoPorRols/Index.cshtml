@@ -1,0 +1,70 @@
+﻿@model IEnumerable<MiPrimerProyectoMVC.Model.PermisoDenegadoPorRol>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+
+@{
+    var Nombres_Rol = ViewBag.Nombres_Rol;
+    var Nombres_Permiso = ViewBag.Nombres_Permiso;
+} 
+
+
+<p>
+    <input type="button" class="btn btn-success" value="Crear Denegacion" onclick="location.href='@Url.Action("Create", "PermisoDenegadoPorRols")'" /
+</p>
+  
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de Denegaciones</div>
+
+    <table class="table">
+        <tr>
+
+            <th>
+                @Html.DisplayName("Rol")
+            </th>
+
+            <th>
+                @Html.DisplayName("Permiso")
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+
+                <td>
+                    @if (Nombres_Rol.ContainsKey(item.RolID))
+                    {
+                        @Nombres_Rol[item.RolID];
+                    }
+
+                </td>
+
+                <td>
+
+                    @if (Nombres_Permiso.ContainsKey(item.PermisoID))
+                    {
+                        @Nombres_Permiso[item.PermisoID];
+                    }
+                </td>
+
+                <td>
+                    @Html.ActionLink("Borrar", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+        }
+
+    </table>
+    </div>

@@ -1,0 +1,113 @@
+﻿@model Model.Rol
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+@{
+    var Nombres_Permiso = ViewBag.Nombre_Permiso;
+}
+
+<h2  style=" color: white">Detalles</h2>
+
+<div  style=" color: white">
+    <h4>Rol y sus integrantes.</h4>
+    <hr />     
+          <h2>@Html.DisplayName("Rol: ")  @Html.DisplayFor(model => model.Nombre)  </h2> 
+    <hr />
+
+    <p>
+        <input type="button" class="btn btn-success" value="Anadir Denegacion" onclick="location.href='@Url.Action("Create", "PermisoDenegadoPorRols")'" />
+
+    </p>
+    </div>
+
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Restricciones de este Rol</div>
+
+    <table class="table">
+        <tr>
+
+            <th>
+                @Html.DisplayName("ID del Permiso")
+            </th>
+
+            <th>
+                @Html.DisplayName("Descripcion del permiso")
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in @ViewBag.PDR)
+        {
+
+            <tr class="success">
+                <td>
+
+                    @item.PermisoID
+                </td>
+
+                <td class="danger">
+                    @if (Nombres_Permiso.ContainsKey(item.PermisoID))
+                    {
+                        @Nombres_Permiso[item.PermisoID];
+                    }
+
+                </td>
+
+                <td class="info">
+                    @Html.ActionLink("Borrar", "Delete", "PermisoDenegadoPorRols", new RouteValueDictionary(new { id = item.ID }), null)
+
+                </td>
+
+            </tr>
+        }
+
+
+    </table>
+    </div>
+  
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Cuentas relacionadas a este Rol</div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("Correo")
+            </th>
+
+            <th>
+                @Html.DisplayName("Nombre")
+            </th>
+
+            <th></th>
+        </tr>
+        @foreach (var item in Model.Usuario)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Correo)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+
+
+
+            </tr>
+
+        }
+
+    </table>
+    </div>
+    <p>
+        <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Rols",new { id = Model.id})';return false;">Editar</button>
+
+        <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index", "Rols")'" />
+    </p>

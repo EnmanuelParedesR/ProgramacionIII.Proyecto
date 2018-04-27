@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Model.Usuario>
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+@if (FrontUser.TienePermiso(RolesPermisos.Puede_Crear_Usuario))
+{
+    <p>
+        <input type="button" class="btn btn-success" value="Crear Usuario" onclick="location.href='@Url.Action("Create", "Usuarios")'" />
+    </p>
+}
+
+<div class="panel panel-primary">
+  
+    <div class="panel-heading">Lista de usuarios</div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("Rol")
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Correo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rol.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Correo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                <td>
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Editar_Usuario))
+                {
+                        <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Usuarios",new { id = item.id})';return false;">Editar</button>
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Detalles_Usuario))
+                {
+                        <button class="btn btn-info" onclick="location.href='@Url.Action("Details", "Usuarios",new { id = item.id})';return false;">Detalles</button>
+
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Borrar_Usuario))
+                {
+                        <button class="btn btn-danger" onclick="location.href='@Url.Action("Delete", "Usuarios",new { id = item.id})';return false;">Borrar</button>
+
+                    }
+
+
+
+
+
+
+                </td>
+            </tr>
+        }
+
+    </table>
+    </div>

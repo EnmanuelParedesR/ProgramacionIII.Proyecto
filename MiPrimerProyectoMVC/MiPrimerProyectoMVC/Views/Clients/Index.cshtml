@@ -1,0 +1,87 @@
+﻿@model IEnumerable<MiPrimerProyectoMVC.Model.Client>
+
+@if (FrontUser.TienePermiso(RolesPermisos.Puede_Crear_Cliente))
+{
+    <p>
+        <input type="button" class="btn btn-success" value="Crear Cliente" onclick="location.href='@Url.Action("Create")'" />
+    </p>
+}
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de Clientes</div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("Primer Nombre")
+            </th>
+            <th>
+                @Html.DisplayName("Segundo Nombre")
+            </th>
+            <th>
+                @Html.DisplayName("Apellidos")
+            </th>
+            <th>
+                @Html.DisplayName("Pasaporte, Cedula o licencia")
+            </th>
+            <th>
+                @Html.DisplayName("Esta activo")
+            </th>
+            <th>
+                @Html.DisplayName("En uso")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MiddleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PassportNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsActive)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsUsed)
+                </td>
+                <td>
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Editar_Cliente))
+                {
+                        <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Clients",new { id = item.ClientID })';return false;">Editar</button>
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Detalles_Cliente))
+                {
+                        <button class="btn btn-info" onclick="location.href='@Url.Action("Details", "Clients",new { id = item.ClientID })';return false;">Detalles</button>
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Borrar_Cliente))
+                {
+                        <button class="btn btn-danger" onclick="location.href='@Url.Action("Delete", "Clients",new { id = item.ClientID })';return false;">Borrar</button>
+
+                    }
+
+                </td>
+            </tr>
+        }
+
+    </table>
+  </div>

@@ -1,0 +1,124 @@
+﻿@model MiPrimerProyectoMVC.Model.Plan
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<h2 style=" color: white">Borrar</h2>
+
+<h3 style=" color: white">Esta seguro que quiere borrar este plan?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal" style=" color: white">
+        <dt>
+            @Html.DisplayName("Nombre del Plan")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlanName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Descripcion del Plan")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PlanDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Precio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Esta activo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Esta en uso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsUsed)
+        </dd>
+        
+        <dt>
+            @Html.Display("Costo")
+        </dt>
+        <dd>
+            @Html.DisplayNameFor(model => model.Costo)
+        </dd>
+
+    </dl>
+
+    <div class="panel panel-primary">
+
+        <div class="panel-heading">Lista de Servicios Agregados</div>
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayName("ID")
+                </th>
+
+                <th>
+                    @Html.DisplayName("Nombre del Servicio")
+                </th>
+
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model.Plan_Service)
+            {
+                if (item.PlanID == Model.PlanID)
+                {
+                    <tr>
+                        <td>
+
+                            @Html.DisplayFor(model => item.Service.ServiceID)
+
+                        </td>
+
+                        <td>
+
+                            @Html.DisplayFor(model => item.Service.ServiceName)
+
+                        </td>
+
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", "Plan_Service", new RouteValueDictionary(new { id = item.Plan_Service1 }), null) |
+                            @Html.ActionLink("Borrar", "Delete", "Plan_Service", new RouteValueDictionary(new { id = item.Plan_Service1 }), null) |
+                        </td>
+
+                    </tr>
+
+                }
+            }
+
+
+
+        </table>
+
+        </div>
+
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Borrar Plan" class="btn btn-danger" /> |
+                <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index", "Plans")'" />
+
+            </div>
+        }
+    </div>

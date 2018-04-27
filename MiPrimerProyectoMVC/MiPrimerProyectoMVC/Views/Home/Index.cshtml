@@ -1,0 +1,58 @@
+﻿
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+<h2 class="page-header" style="color: white">
+    Bienvenido a la Base de datos S.A
+</h2>
+
+
+
+<div id="list"></div>
+
+
+<div class="jumbotron" style=" background-color: transparent; color: white" >
+@if (FrontUser.Get().Rol_id == 3)
+{
+    <h3> Rango de cuenta: @FrontUser.Get().Rol.Nombre</h3>
+    <h5> Usted tiene acceso al manejo de todo el contenido de la Base de datos</h5>
+    <h5> La 'Herramienta ADM' establecida en la barra le ayudara a navegar entre las funcionalidades de administrador</h5>
+
+    <a href="~/Usuarios/Index" class="btn btn-info">Lista de cuentas</a>
+
+    <a href="~/Usuarios/Create" class="btn btn-success">Crear cuenta</a>
+
+    <br />
+    <br />
+
+    <h5> Usted tiene acceso al manejo de los Roles de la Base de datos:</h5>
+    <a href="~/Rols/Index" class="btn btn-info">Lista de Roles</a>
+
+    <a href="~/Rols/Create" class="btn btn-success">Crear Rol</a>
+
+    <br />
+    <br />
+
+
+    <h5> Usted puede ver la lista de permisos </h5>
+
+    <a href="~/Permisoes/Index" class="btn btn-info">Lista de Permisos</a>
+
+}
+else
+{
+    <h3> Rango de cuenta: @FrontUser.Get().Rol.Nombre</h3>
+    <b> Esta cuenta no consta con acceso ilimitado</b>
+    <h3> <b> Cualquier acceso denegado sera redireccionado a esta pagina.</b> </h3>
+
+}
+    <br />
+ 
+
+</div>
+
+

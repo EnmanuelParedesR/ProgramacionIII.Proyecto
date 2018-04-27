@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataBaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="ContextKey" Type="nvarchar" MaxLength="300" Nullable="false" />
+    <Property Name="Model" Type="varbinary(max)" Nullable="false" />
+    <Property Name="ProductVersion" Type="nvarchar" MaxLength="32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Adjunto">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Alumno_id" Type="int" Nullable="false" />
+    <Property Name="Archivo" Type="nvarchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Alumno">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Apellido" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Sexo" Type="int" Nullable="false" />
+    <Property Name="FechaNacimiento" Type="nvarchar" MaxLength="10" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AlumnoCurso">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Alumno_id" Type="int" Nullable="false" />
+    <Property Name="Curso_id" Type="int" Nullable="false" />
+    <Property Name="Nota" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Curso">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Permiso">
+    <Key>
+      <PropertyRef Name="PermisoID" />
+    </Key>
+    <Property Name="PermisoID" Type="int" Nullable="false" />
+    <Property Name="Modulo" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PermisoDenegadoPorRol">
+    <Key>
+      <PropertyRef Name="PermisoID" />
+      <PropertyRef Name="RolID" />
+    </Key>
+    <Property Name="PermisoID" Type="int" Nullable="false" />
+    <Property Name="RolID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Rol">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar(max)" Nullable="false" />
+    <Property Name="Correo" Type="varchar(max)" Nullable="false" />
+    <Property Name="Password" Type="varchar(max)" Nullable="false" />
+    <Property Name="Rol_id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_dbo_Adjunto_dbo_Alumno_Alumno_id">
+    <End Role="Alumno" Type="Self.Alumno" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Adjunto" Type="Self.Adjunto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Alumno">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Adjunto">
+        <PropertyRef Name="Alumno_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AlumnoCurso_dbo_Alumno_Alumno_id">
+    <End Role="Alumno" Type="Self.Alumno" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AlumnoCurso" Type="Self.AlumnoCurso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Alumno">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="AlumnoCurso">
+        <PropertyRef Name="Alumno_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AlumnoCurso_dbo_Curso_Curso_id">
+    <End Role="Curso" Type="Self.Curso" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AlumnoCurso" Type="Self.AlumnoCurso" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Curso">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="AlumnoCurso">
+        <PropertyRef Name="Curso_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_PermisoDenegadoPorRol_dbo_Permiso_PermisoID">
+    <End Role="Permiso" Type="Self.Permiso" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="PermisoDenegadoPorRol" Type="Self.PermisoDenegadoPorRol" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Permiso">
+        <PropertyRef Name="PermisoID" />
+      </Principal>
+      <Dependent Role="PermisoDenegadoPorRol">
+        <PropertyRef Name="PermisoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_PermisoDenegadoPorRol_dbo_Rol_RolID">
+    <End Role="Rol" Type="Self.Rol" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="PermisoDenegadoPorRol" Type="Self.PermisoDenegadoPorRol" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rol">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="PermisoDenegadoPorRol">
+        <PropertyRef Name="RolID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_Usuario_dbo_Rol_Rol_id">
+    <End Role="Rol" Type="Self.Rol" Multiplicity="1" />
+    <End Role="Usuario" Type="Self.Usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rol">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Usuario">
+        <PropertyRef Name="Rol_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DataBaseModelStoreContainer">
+    <EntitySet Name="__MigrationHistory" EntityType="Self.__MigrationHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Adjunto" EntityType="Self.Adjunto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Alumno" EntityType="Self.Alumno" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AlumnoCurso" EntityType="Self.AlumnoCurso" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Curso" EntityType="Self.Curso" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Permiso" EntityType="Self.Permiso" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PermisoDenegadoPorRol" EntityType="Self.PermisoDenegadoPorRol" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rol" EntityType="Self.Rol" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_dbo_Adjunto_dbo_Alumno_Alumno_id" Association="Self.FK_dbo_Adjunto_dbo_Alumno_Alumno_id">
+      <End Role="Alumno" EntitySet="Alumno" />
+      <End Role="Adjunto" EntitySet="Adjunto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AlumnoCurso_dbo_Alumno_Alumno_id" Association="Self.FK_dbo_AlumnoCurso_dbo_Alumno_Alumno_id">
+      <End Role="Alumno" EntitySet="Alumno" />
+      <End Role="AlumnoCurso" EntitySet="AlumnoCurso" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AlumnoCurso_dbo_Curso_Curso_id" Association="Self.FK_dbo_AlumnoCurso_dbo_Curso_Curso_id">
+      <End Role="Curso" EntitySet="Curso" />
+      <End Role="AlumnoCurso" EntitySet="AlumnoCurso" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_PermisoDenegadoPorRol_dbo_Permiso_PermisoID" Association="Self.FK_dbo_PermisoDenegadoPorRol_dbo_Permiso_PermisoID">
+      <End Role="Permiso" EntitySet="Permiso" />
+      <End Role="PermisoDenegadoPorRol" EntitySet="PermisoDenegadoPorRol" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_PermisoDenegadoPorRol_dbo_Rol_RolID" Association="Self.FK_dbo_PermisoDenegadoPorRol_dbo_Rol_RolID">
+      <End Role="Rol" EntitySet="Rol" />
+      <End Role="PermisoDenegadoPorRol" EntitySet="PermisoDenegadoPorRol" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_Usuario_dbo_Rol_Rol_id" Association="Self.FK_dbo_Usuario_dbo_Rol_Rol_id">
+      <End Role="Rol" EntitySet="Rol" />
+      <End Role="Usuario" EntitySet="Usuario" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

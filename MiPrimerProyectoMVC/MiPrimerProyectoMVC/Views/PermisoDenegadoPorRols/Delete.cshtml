@@ -1,0 +1,62 @@
+﻿@model MiPrimerProyectoMVC.Model.PermisoDenegadoPorRol
+
+@{
+    ViewBag.Title = "Delete";
+}
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+
+    h1, h2, h3, h4 {
+        color: white;
+    }
+</style>
+
+
+
+@{
+
+    var Nombres_Rol = ViewBag.Nombres_Rol;
+    var Nombres_Permiso = ViewBag.Nombres_Permiso;
+} 
+
+<h3>Seguro desea borrar esta denegacion?</h3>
+<div>
+    <h4> <b>Informacion del Permiso Denegado </b></h4>
+    <hr />
+    <dl class="dl-horizontal" style=" color: white">
+        <dt>
+            @Html.DisplayName("Permiso")
+        </dt>
+
+        <dd>
+            @if (Nombres_Permiso.ContainsKey(Model.PermisoID))
+            {
+                @Nombres_Permiso[Model.PermisoID];
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Rol")
+        </dt>
+
+        <dd>
+            @if (Nombres_Rol.ContainsKey(Model.RolID))
+            {
+                @Nombres_Rol[Model.RolID];
+            }
+        </dd>
+
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index")'" />
+        </div>
+    }
+</div>

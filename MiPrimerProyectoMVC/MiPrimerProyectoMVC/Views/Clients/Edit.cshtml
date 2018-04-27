@@ -1,0 +1,134 @@
+﻿@model MiPrimerProyectoMVC.Model.Client
+
+@{
+    ViewBag.Title = "Edit";
+}
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal ">
+        <h4 style=" color: white"> <b>Informacion del Cliente</b></h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ClientID)
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.FirstName, "Primer Nombre", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.MiddleName, "Segundo Nombre", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.MiddleName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MiddleName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.LastName, "Apellido", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.PassportNumber, "Pasaporte, Cedula o Licencia", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PassportNumber, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PassportNumber, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.IsActive, "Esta activo", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsActive)
+                    @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.IsUsed, "En uso", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsUsed)
+                    @Html.ValidationMessageFor(model => model.IsUsed, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Guardar cambios" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<p>
+    <input type="button" class="btn btn-success" value="Anadir una Suscripcion a este Cliente" onclick="location.href='@Url.Action("Create","Subscriptions")'" />
+</p>
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de Suscripciones del Cliente</div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("ID de la suscripcion")
+            </th>
+
+            <th>
+                @Html.DisplayName("Nombre del plan")
+            </th>
+
+            <th></th>
+
+        </tr>
+
+
+        @foreach (var item in Model.Subscriptions)
+        {
+            if (item.ClientID == Model.ClientID)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(model => item.SubscriptionID)
+
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(model => item.Plan.PlanName)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Editar", "Edit", "Subscriptions", new RouteValueDictionary(new { id = item.SubscriptionID }), null) |
+                        @Html.ActionLink("Detalles", "Details", "Subscriptions", new RouteValueDictionary(new { id = item.SubscriptionID }), null) |
+                        @Html.ActionLink("Borrar", "Delete", "Subscriptions", new RouteValueDictionary(new { id = item.SubscriptionID }), null) |
+                    </td>
+
+                </tr>
+            }
+        }
+    </table>
+    </div>
+    <div>
+        <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index")'" />
+
+    </div>
+

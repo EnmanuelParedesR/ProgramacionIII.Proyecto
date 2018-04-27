@@ -1,0 +1,79 @@
+﻿@model Model.Usuario
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+
+</style>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4 style=" color: white">Usuario</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.id)
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.Correo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Correo, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Correo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2",placeholder=  "Password" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", placeholder = "Password", @type = "password" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        
+            @if (FrontUser.Get().Rol_id == 3)
+            {
+                
+                <div class="form-group" style=" color: white">
+                    <div class="alert alert-danger"  style=" text-align: center;" >  <b> <u> Si cambia su rol no podra retroceder!, ¡Precaucion! </u> </b></div> 
+                    @Html.LabelFor(model => model.Rol_id, "Rol", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Rol_id", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.Rol_id, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+            }
+            else
+            {
+                
+                
+                  <div class="form-group" style=" color: white">
+                    @Html.LabelFor(model => model.Rol_id, "Rol", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("Rol_id", null, htmlAttributes: new { @disabled = "disabled", @class = "form-control" })
+                        @Html.HiddenFor(model => model.Rol_id)
+                        @Html.ValidationMessageFor(model => model.Rol_id, "", new { @class = "text-danger" })
+                    </div>
+                      <h5> <b>No tienes los permisos para editar tu Rol! </b>  </h5>
+                </div>
+            }
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Guardar cambios" class="btn btn-success"  />
+                </div>
+            </div>
+</div>
+}

@@ -1,0 +1,65 @@
+﻿@model MiPrimerProyectoMVC.Model.Service
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<h2  style=" color: white">Detalles del Servicio</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal"  style=" color: white">
+        <dt>
+            @Html.DisplayName("Nombre del servicio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ServiceName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Descripcion del servicio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ServiceDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Esta activo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("En uso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsUsed)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Precio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+    <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Services",new { id = Model.ServiceID })';return false;">Editar</button>
+
+
+    <br />
+    <br />
+
+    <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index")'" />
+</p>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataBaseM" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="PermisoDenegadoPorRol">
+    <Key>
+      <PropertyRef Name="PermisoID" />
+      <PropertyRef Name="RolID" />
+    </Key>
+    <Property Name="PermisoID" Type="Int32" Nullable="false" />
+    <Property Name="RolID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PermisoDenegadoPorRols" EntityType="Self.PermisoDenegadoPorRol" />
+  </EntityContainer>
+</Schema>

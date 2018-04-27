@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataBaseMStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="PermisoDenegadoPorRols">
+      <EntityTypeMapping TypeName="DataBaseM.PermisoDenegadoPorRol">
+        <MappingFragment StoreEntitySet="PermisoDenegadoPorRol">
+          <ScalarProperty Name="PermisoID" ColumnName="PermisoID" />
+          <ScalarProperty Name="RolID" ColumnName="RolID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

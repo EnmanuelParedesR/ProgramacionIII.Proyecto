@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Proyecto_FinalModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="ClientID" />
+    </Key>
+    <Property Name="ClientID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PassportNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="IsUsed" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Subscriptions" Relationship="Self.FK_Subscription_Client" FromRole="Clients" ToRole="Subscriptions" />
+  </EntityType>
+  <EntityType Name="Plan_Service">
+    <Key>
+      <PropertyRef Name="Plan_Service1" />
+    </Key>
+    <Property Name="Plan_Service1" Nullable="false" annotation:StoreGeneratedPattern="Identity" Type="Int32" />
+    <Property Name="PlanID" Type="Int32" Nullable="false" />
+    <Property Name="ServiceID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Plan" Relationship="Self.FK_Plan_Service_Plan" FromRole="Plan_Service" ToRole="Plans" />
+    <NavigationProperty Name="Service" Relationship="Self.FK_Plan_Service_Service" FromRole="Plan_Service" ToRole="Services" />
+  </EntityType>
+  <EntityType Name="Plan">
+    <Key>
+      <PropertyRef Name="PlanID" />
+    </Key>
+    <Property Name="PlanID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PlanName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PlanDescription" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="Price" Type="Double" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="IsUsed" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Plan_Service" Relationship="Self.FK_Plan_Service_Plan" FromRole="Plans" ToRole="Plan_Service" />
+    <NavigationProperty Name="Subscriptions" Relationship="Self.FK_Subscription_Plan" FromRole="Plans" ToRole="Subscriptions" />
+    <Property Name="Costo" Type="Decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="Service">
+    <Key>
+      <PropertyRef Name="ServiceID" />
+    </Key>
+    <Property Name="ServiceID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ServiceName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ServiceDescription" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="IsUsed" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Plan_Service" Relationship="Self.FK_Plan_Service_Service" FromRole="Services" ToRole="Plan_Service" />
+    <Property Name="Precio" Type="Int32" />
+    <Property Name="ExternalID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Subscription">
+    <Key>
+      <PropertyRef Name="SubscriptionID" />
+    </Key>
+    <Property Name="SubscriptionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PlanID" Type="Int32" Nullable="false" />
+    <Property Name="ClientID" Type="Int32" Nullable="false" />
+    <Property Name="ExpirationDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="IsExpired" Type="Boolean" Nullable="false" />
+    <Property Name="IsUsed" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Client" Relationship="Self.FK_Subscription_Client" FromRole="Subscriptions" ToRole="Clients" />
+    <NavigationProperty Name="Plan" Relationship="Self.FK_Subscription_Plan" FromRole="Subscriptions" ToRole="Plans" />
+  </EntityType>
+  <Association Name="FK_Subscription_Client">
+    <End Role="Clients" Type="Self.Client" Multiplicity="1" />
+    <End Role="Subscriptions" Type="Self.Subscription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="ClientID" />
+      </Principal>
+      <Dependent Role="Subscriptions">
+        <PropertyRef Name="ClientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Plan_Service_Plan">
+    <End Role="Plans" Type="Self.Plan" Multiplicity="1" />
+    <End Role="Plan_Service" Type="Self.Plan_Service" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Plans">
+        <PropertyRef Name="PlanID" />
+      </Principal>
+      <Dependent Role="Plan_Service">
+        <PropertyRef Name="PlanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Plan_Service_Service">
+    <End Role="Services" Type="Self.Service" Multiplicity="1" />
+    <End Role="Plan_Service" Type="Self.Plan_Service" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Services">
+        <PropertyRef Name="ServiceID" />
+      </Principal>
+      <Dependent Role="Plan_Service">
+        <PropertyRef Name="ServiceID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Subscription_Plan">
+    <End Role="Plans" Type="Self.Plan" Multiplicity="1" />
+    <End Role="Subscriptions" Type="Self.Subscription" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Plans">
+        <PropertyRef Name="PlanID" />
+      </Principal>
+      <Dependent Role="Subscriptions">
+        <PropertyRef Name="PlanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Proyecto_FinalEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Clients" EntityType="Self.Client" />
+    <EntitySet Name="Plan_Service" EntityType="Self.Plan_Service" />
+    <EntitySet Name="Plans" EntityType="Self.Plan" />
+    <EntitySet Name="Services" EntityType="Self.Service" />
+    <EntitySet Name="Subscriptions" EntityType="Self.Subscription" />
+    <AssociationSet Name="FK_Subscription_Client" Association="Self.FK_Subscription_Client">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Subscriptions" EntitySet="Subscriptions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Plan_Service_Plan" Association="Self.FK_Plan_Service_Plan">
+      <End Role="Plans" EntitySet="Plans" />
+      <End Role="Plan_Service" EntitySet="Plan_Service" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Plan_Service_Service" Association="Self.FK_Plan_Service_Service">
+      <End Role="Services" EntitySet="Services" />
+      <End Role="Plan_Service" EntitySet="Plan_Service" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Subscription_Plan" Association="Self.FK_Subscription_Plan">
+      <End Role="Plans" EntitySet="Plans" />
+      <End Role="Subscriptions" EntitySet="Subscriptions" />
+    </AssociationSet>
+    <EntitySet Name="TasaIDs" EntityType="Proyecto_FinalModel.TasaID" />
+    <EntitySet Name="Tables" EntityType="Proyecto_FinalModel.Table" />
+  </EntityContainer>
+  <EntityType Name="TasaID">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="ClientKey" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ValorIntercambio" Type="Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="ClientID" />
+    </Key>
+    <Property Name="ClientID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="PassportNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="IsUsed" Type="Boolean" Nullable="false" />
+  </EntityType>
+</Schema>

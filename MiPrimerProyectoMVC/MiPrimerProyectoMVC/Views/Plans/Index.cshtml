@@ -1,0 +1,94 @@
+﻿@model  IEnumerable<MiPrimerProyectoMVC.Model.Plan>
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+@if (FrontUser.TienePermiso(RolesPermisos.Puede_Crear_Planes))
+{
+    <p>
+        <input type="button" class="btn btn-success" value="Crear Plan" onclick="location.href='@Url.Action("Create", "Plans")'" /
+    </p>
+}
+
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de planes</div>
+
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("Nombre del Plan")
+            </th>
+            <th>
+                @Html.DisplayName("Descripcion del Plan")
+            </th>
+            <th>
+                @Html.DisplayName("Precio")
+            </th>
+            <th>
+                @Html.DisplayName("Costo")
+            </th>
+            <th>
+                @Html.DisplayName("Esta activo")
+            </th>
+            <th>
+                @Html.DisplayName("En uso")
+            </th>
+       
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PlanName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PlanDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Costo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsActive)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsUsed)
+                </td>
+                <td>
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Editar_Planes))
+                {
+                        <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Plans",new { id = item.PlanID})';return false;">Editar</button>
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Detalles_Planes))
+                {
+                        <button class="btn btn-info" onclick="location.href='@Url.Action("Details", "Plans",new { id = item.PlanID})';return false;">Detalles</button>
+
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Borrar_Planes))
+                {
+                        <button class="btn btn-danger" onclick="location.href='@Url.Action("Delete", "Plans",new { id = item.PlanID})';return false;">Borrar</button>
+
+                    }
+
+                </td>
+            </tr>
+        }
+
+    </table>
+    </div>

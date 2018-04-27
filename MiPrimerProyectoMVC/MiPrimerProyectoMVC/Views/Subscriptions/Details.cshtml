@@ -1,0 +1,104 @@
+﻿@model MiPrimerProyectoMVC.Model.Subscription
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<h2  style=" color: white">Detalles</h2>
+
+<div>
+    <h4  style=" color: white">Suscripciones</h4>
+    <hr />
+    <dl class="dl-horizontal"  style=" color: white">
+        <dt>
+            @Html.DisplayName("Dia de vencimiento")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExpirationDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Esta expirado")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsExpired)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Esta uso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsUsed)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Primer Nombre")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Client.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Nombre del Plan")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Plan.PlanName)
+        </dd>
+
+    </dl>
+</div>
+
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista Detalles sobre los planes</div>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("Plan ID")
+            </th>
+            <th>
+                @Html.DisplayName("Descripcion del Plan")
+            </th>
+
+            <th></th>
+        </tr>
+
+
+        <tr>
+            <td>
+
+                @Html.DisplayFor(model => model.Plan.PlanName)
+
+            </td>
+            <td>
+
+                @Html.DisplayFor(model => model.Plan.PlanDescription)
+
+            </td>
+
+            <td>
+                @Html.ActionLink("Editar", "Edit", "Plans", new RouteValueDictionary(new { id = Model.Plan.PlanID }), null) |
+                @Html.ActionLink("Detalles", "Details", "Plans", new RouteValueDictionary(new { id = Model.Plan.PlanID }), null) |
+                @Html.ActionLink("Borrar", "Delete", "Plans", new RouteValueDictionary(new { id = Model.Plan.PlanID }), null) |
+            </td>
+
+        </tr>
+
+    </table>
+    </div>
+
+    <p>
+        <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Subscriptions",new { id = Model.SubscriptionID})';return false;">Editar</button>
+
+        <input type="button" class="btn btn-info" value="Volver a la lista" onclick="location.href='@Url.Action("Index")'" />
+
+    </p>

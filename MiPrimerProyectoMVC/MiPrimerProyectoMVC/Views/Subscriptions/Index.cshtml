@@ -1,0 +1,90 @@
+﻿@model IEnumerable<MiPrimerProyectoMVC.Model.Subscription>
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+@if (FrontUser.TienePermiso(RolesPermisos.Puede_Crear_Subscriptions))
+{
+    <p>
+        <input type="button" class="btn btn-success" value="Crear Suscripciones" onclick="location.href='@Url.Action("Create")'" />
+    </p>
+}
+
+<div class="panel panel-primary">
+
+    <div class="panel-heading">Lista de Suscripciones</div>
+
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayName("Dia de vencimiento")
+            </th>
+            <th>
+                @Html.DisplayName("Esta expirado")
+            </th>
+            <th>
+                @Html.DisplayName("Esta en uso")
+            </th>
+            <th>
+                @Html.DisplayName("Primer Nombre")
+            </th>
+            <th>
+                @Html.DisplayName("Nombre del Plan")
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ExpirationDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsExpired)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsUsed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Client.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Plan.PlanName)
+                </td>
+                <td>
+
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Editar_Subscriptions))
+                {
+                        <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Subscriptions",new { id = item.SubscriptionID})';return false;">Editar</button>
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Detalles_Subscriptions))
+                {
+                        <button class="btn btn-info" onclick="location.href='@Url.Action("Details", "Subscriptions",new { id = item.SubscriptionID})';return false;">Detalles</button>
+
+
+                    }
+
+                    @if (FrontUser.TienePermiso(RolesPermisos.Puede_Borrar_Subscriptions))
+                {
+                        <button class="btn btn-danger" onclick="location.href='@Url.Action("Delete", "Subscriptions",new { id = item.SubscriptionID })';return false;">Borrar</button>
+
+
+                    }
+
+
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>

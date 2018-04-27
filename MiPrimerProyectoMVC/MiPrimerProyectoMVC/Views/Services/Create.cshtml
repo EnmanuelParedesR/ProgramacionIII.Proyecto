@@ -1,0 +1,97 @@
+﻿@model MiPrimerProyectoMVC.Model.Service
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+<h2  style=" color: white">Crear Servicio</h2>
+
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert-danger">
+        @ViewBag.ErrorMessage
+    </div>
+
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        @Html.HiddenFor(model => model.ExternalID, new { id = "natureOfVisitField" })
+
+        <div class="form-group"  style=" color: white">
+            @Html.LabelFor(model => model.ServiceName,"Nombre del Servicio", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ServiceName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ServiceName, "", new { @class = "text-danger" })
+            </div>
+
+            @if (ViewBag.VoidServiceName != null)
+            {
+                <div class="label-danger">
+                    @ViewBag.VoidServiceName
+                </div>
+
+            }
+
+        </div>
+
+        <div class="form-group"  style=" color: white">
+            @Html.LabelFor(model => model.ServiceDescription,"Descripcion Del servicio", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ServiceDescription, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ServiceDescription, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group"  style=" color: white">
+            @Html.LabelFor(model => model.IsActive,"Esta activo", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsActive)
+                    @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group"  style=" color: white">
+            @Html.LabelFor(model => model.IsUsed,"Esta en uso", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsUsed)
+                    @Html.ValidationMessageFor(model => model.IsUsed, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.Precio, "Precio Del servicio", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Precio, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Precio, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @Html.HiddenFor(model => model.ExternalID)
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Crear Servicio" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    <button class="btn btn-success" onclick="location.href='@Url.Action("Index", "Services",new {  })';return false;">Regresar</button>
+
+</div>

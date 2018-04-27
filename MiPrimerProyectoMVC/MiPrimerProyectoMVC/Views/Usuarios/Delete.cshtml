@@ -1,0 +1,49 @@
+﻿@model Model.Usuario
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+<h2  style=" color: white">Borrar</h2>
+
+<h3  style=" color: white">Seguro que desea borrar este usuario?</h3>
+<div>
+    <h4  style=" color: white"><b> Informacion del Usuario</b></h4>
+    <hr />
+    <dl class="dl-horizontal"  style=" color: white">
+        <dt>
+            @Html.DisplayNameFor(model => model.Rol.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rol.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Correo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Correo)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Borrar" class="btn btn-danger" /> |
+            <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index", "Usuarios")'" />
+        </div>
+    }
+</div>

@@ -1,0 +1,110 @@
+﻿@model MiPrimerProyectoMVC.Model.Client
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <p>Introduzca su RNC aqui para autocompletar informacion</p>
+
+    <input type="text" name="Aqui1" id="RNC" value=""  />
+    <input type="button" name="Aqui2" id="RNC2" value="Obtener informacion" />
+
+
+    <div class="form-horizontal">
+        <h4 style="color: white;"> <b>Crear cliente </b></h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.FirstName, "Primer Nombre", htmlAttributes: new { @id = "Nombre", @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new {@id ="Nombre", @class = "form-control"} })
+                @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.MiddleName, "Segundo Nombre", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.MiddleName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MiddleName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.LastName, "Apellido", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.PassportNumber, "Pasaporte, Cedula o Licencia", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PassportNumber, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PassportNumber, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.IsActive, "Esta Activo", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsActive)
+                    @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group" style=" color: white">
+            @Html.LabelFor(model => model.IsActive, "En uso", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.IsUsed)
+                    @Html.ValidationMessageFor(model => model.IsUsed, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Crear" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+
+    $(document).ready(function () {
+        jQuery.support.cors = true
+        $("RNC2").click(function () {
+            
+            var id = $("RNC").val();
+            $.getJSON("http://99.92.201.237/cedula1/Api/RNC/" + id, function (data) {
+
+                alert(data);
+
+            })
+        })
+    })
+</script>
+
+
+<div>
+
+    <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index")'" />
+
+</div>

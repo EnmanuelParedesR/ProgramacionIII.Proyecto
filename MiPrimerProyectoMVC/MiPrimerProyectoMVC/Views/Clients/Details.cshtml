@@ -1,0 +1,133 @@
+﻿@model MiPrimerProyectoMVC.Model.Client
+
+@{
+    ViewBag.Title = "Details";
+}
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+@using (Html.BeginForm())
+{
+<div>
+    <h4 style=" color: white"> <b> Informacion del cliente </b></h4>
+    <hr />
+    <dl class="dl-horizontal" style=" color: white">
+
+        <dt>
+            @Html.DisplayName("Primer Nombre")
+
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Segundo Nombre")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MiddleName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Apellido")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Pasaporte, Cedula o Licencia")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PassportNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Esta activo")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("En uso")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsUsed)
+        </dd>
+
+    </dl>
+</div>
+
+<p>
+    <input type="button" class="btn btn-success" value="Anadir una Suscripcion a este Cliente" onclick="location.href='@Url.Action("Create","Subscriptions")'" />
+</p>
+
+    <div class="panel panel-primary">
+
+        <div class="panel-heading">Lista de suscripciones de este Cliente</div>
+
+
+        <table class="table">
+
+
+            <tr>
+                <th>
+                    @Html.DisplayName("ID de la suscripcion")
+                </th>
+
+                <th>
+                    @Html.DisplayName("Nombre del plan")
+                </th>
+
+
+                <th></th>
+
+            </tr>
+
+
+            @foreach (var item in Model.Subscriptions)
+            {
+                if (item.ClientID == Model.ClientID)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(model => item.SubscriptionID)
+
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(model => item.Plan.PlanName)
+                        </td>
+
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", "Subscriptions", new RouteValueDictionary(new { id = item.SubscriptionID }), null) |
+                            @Html.ActionLink("Detalles", "Details", "Subscriptions", new RouteValueDictionary(new { id = item.SubscriptionID }), null) |
+                            @Html.ActionLink("Borrar", "Delete", "Subscriptions", new RouteValueDictionary(new { id = item.SubscriptionID }), null) |
+                        </td>
+
+                    </tr>
+                }
+            }
+        </table>
+        </div>
+
+        <p>
+
+            <button class="btn btn-success" onclick="location.href='@Url.Action("Edit", "Clients",new { id = Model.ClientID })';return false;">Editar</button>|
+
+            <input type="button" class="btn btn-info" value="Regresar" onclick="location.href='@Url.Action("Index")'" />
+
+        </p>
+
+        }

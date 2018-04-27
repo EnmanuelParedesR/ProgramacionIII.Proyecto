@@ -1,0 +1,51 @@
+﻿@model MiPrimerProyectoMVC.Model.TasaID
+
+
+<style>
+    body {
+        background: url(https://i.pinimg.com/originals/16/e3/af/16e3afca1c0fdd1bfb2cb67ed1519a76.jpg) repeat fixed;
+    }
+</style>
+
+
+<h2 style=" color:white">Borrar</h2>
+
+<h3 style=" color: white">Seguro que desea borrarlo?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal" style="color:White">
+        <dt>
+            @Html.DisplayName("Cliente Key")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClientKey)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Valor de intercambio")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ValorIntercambio)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Fecha")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Borrar" class="btn btn-default" /> |
+            @Html.ActionLink("Volver a la lista", "Index")
+        </div>
+    }
+</div>
